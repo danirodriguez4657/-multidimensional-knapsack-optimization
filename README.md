@@ -36,4 +36,4 @@ Model successfully identifies optimal project selection maximizing ROI while res
 
 ## Author
 
-Daniela Rodríguez — [LinkedIn](www.linkedin.com/in/daniela-rodríguez-data-science-bi2004)
+Daniela Rodríguez — [LinkedIn](https://www.linkedin.com/in/daniela-rodr%C3%ADguez-data-science-bi2004)
